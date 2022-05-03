@@ -21,5 +21,6 @@
           <p> Логотип:</p>
           <img src="https://netology-code.github.io/git-homeworks/introduction/assets/logo.png" alt="Логотип">
       </div>
+      
   </body>
 </html>
